@@ -1,5 +1,5 @@
 # Renee-Tian
-# Hi, I'm Riki 👋
+# Hi, I'm Renee 👋
 
 ### Exploring AI × Product × Engineering
 
